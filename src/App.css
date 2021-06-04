@@ -15,6 +15,7 @@
 
 body{
   background-color: #282c34;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .App-header {
@@ -30,7 +31,6 @@ body{
 .App-link {
   margin-top: 15px;
   color: #61dafb;
-  font-family: cursive;
 }
 
 img{
