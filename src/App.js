@@ -15,7 +15,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learning about CI and CD with Github Actions
-        </a>git 
+        </a>
+
+        <p> Add New workflow </p>
       </header>
     </div>
   );
